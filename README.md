@@ -1,3 +1,3 @@
 simple js calculator
-##Link
+Link:
 https://jafar1011.github.io/JSCalculator-website/
